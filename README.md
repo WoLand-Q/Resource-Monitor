@@ -48,13 +48,3 @@ Here’s an example log entry:
   ```bash
   2024-08-30 14:35:21: High CPU usage detected: 85%
   2024-08-30 14:36:22: High Memory usage detected: 82%
-
-
-
-
-
-
-
-
-
-
