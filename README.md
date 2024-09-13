@@ -23,7 +23,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/resource-monitor.git
+   git clone https://github.com/WoLand-Q/resource-monitor.git
    cd resource-monitor
   
 **Install dependencies:**
